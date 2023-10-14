@@ -1,0 +1,21 @@
+#Awesome Spec Example!
+CREATE 256class 3 string string double emotion person hair
+INSERT INTO 256class 8 ROWS
+happy Angstadt 56.6
+stressed students 23.4
+busy student_hours 45.5684
+stressed students 848.3
+stressed Harcourt 3.3
+happy Angstadt 5.34
+happy Sith 543.35
+victorious Sith 4.5485
+GENERATE FOR 256class bst INDEX ON hair
+PRINT FROM 256class 3 person emotion hair WHERE hair > 100
+#CREATE pets 3 string bool bool Name likes_cats? likes_dogs?
+#INSERT INTO pets 2 ROWS
+#Sith true true
+#Harcourt false false
+#JOIN pets AND 256class WHERE Name = person AND PRINT 3 Name 1 emotion 2 likes_dogs? 1
+#REMOVE pets
+REMOVE 256class
+QUIT

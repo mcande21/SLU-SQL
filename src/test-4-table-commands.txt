@@ -1,0 +1,26 @@
+#          Awesome Spec Example!
+CksjbvkjbREATE 256class 3 string string bool emotion person Y/N
+INSERT INTO 256class 2 ROWS
+happy Angstadt true
+happy Angstadt true
+DELETE FROM 256class WHERE person = Angstadt
+GENERATE FOR 256class hash INDEX ON emotion
+PRINT FROM 256class 2 person emotion WHERE Y/N = true
+CREATE pets 3 string Int bool Name likes_cats? likes_dogs?
+INSERT INTO pets 2 ROWS
+Sith true true
+Harcourt false Yes
+JOIN pets AND 256class WHERE Name = person AND PRINT 3 Name 2 emotion 2 likes_dogs? 1
+REMOVE petss
+DLETE 256class
+#####################################################
+######
+#######
+#
+#
+#
+#
+#
+#
+#################
+QUIT
